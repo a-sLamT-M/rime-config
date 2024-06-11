@@ -1,0 +1,84 @@
+# 中共敏感词
+---
+name: ccp
+version: "2024-02-25"
+sort: by_weight
+use_preset_vocabulary: false
+...
+毛匪 mao fei 100
+习包子 xi baozi 100
+习维尼 xi weini 100
+习大大 xi dada 100 
+习近平 xi jinping 100
+习主席 xi zhuxi 100
+习皇帝 xi huangdi 100
+习大帝 xi dadi 100
+习包子 xi baozi 100
+习特勒 xi tele 100
+刁近平 diao jinping 100
+刁主席 diao zhuxi 100
+刁皇帝 diao huangdi 100
+刁大帝 diao dadi 100
+刁包子 diao baozi 100
+刁特勒 diao tele 100
+刁包子 xi baozi 100
+毛匪泽东 mao fei zedong 100
+六四运动 liu si yundong 100
+六四事件 liu si shijian 100
+六四天安门 liu si tiananmen 100
+六四学潮 liu si xuechao 100
+六四屠杀 liu si tusha 100
+六四镇压 liu si zhenya 100
+八九学潮 ba jiu xuechao 100
+八九民运 ba jiu minyun 100
+坦克人 tian ke ren 100
+高自联 gao zilian 100
+一党 yi dang 100
+一党专政 yi dang zhuanzheng 100
+一党独裁 yi dang ducai 100
+三退 san tui 100
+鸿茅药酒	hong mao yao jiu	100
+谭秦东	tan qin dong	100
+洁洁良、田佳良	jie jie liang tian jia liang	100
+毒疫苗、长生生物	du yi miao chang sheng sheng wu	100
+莎普爱思	sha pu ai si	100
+曼联	man lian	100
+孟宏伟	meng hong wei	100
+刘强东	liu qiang dong	100
+范冰冰	fan bing bing	100
+庹震	tuo zhen	100
+刘芳菲	liu fang fei	100
+刘希泳	liu xi yong	100
+李书福	li shu fu	100
+南京应用技术学校	nan jing ying yong ji shu xue xiao	100
+宋祖德	song zu de	100
+南方公园	nan fang gong yuan	100
+武汉肺炎	wu han fei yan	100
+兄贵	xiong gui	100
+哲学	zhe xue	100
+批斗	pi dou	100
+社会主义	she hui zhu yi	100
+金像奖	jin xiang jiang	100
+主席	zhu xi	100
+领导人	ling dao ren	100
+总书记	zong shu ji	100
+加速主义	jia su zhu yi	100
+润学	run xue	100
+政治庇护  zheng zhi bi hu 100
+BH移民	BH yi min	100
+工会	gong hui	100
+玻璃心	bo li xin	100
+无依之地	wu yi zhi di	100
+躺平	tang ping	100
+地狱笑话	di yu xiao hua	100
+信女愿一生吃素	xin nv yuan yi sheng chi su	100
+婴儿汤	ying er tang	100
+血房	xue fang	100
+配姓赵	pei xing zhao	100
+赵家人	zhao jia ren	100
+河殇	he shang	100
+天葬	tian zang	100
+历史的伤口	li shi de shang kou	100
+改革开放	gai ge kai fang	100
+北国之春	bei guo zhi chun	100
+代开	dai kai	100

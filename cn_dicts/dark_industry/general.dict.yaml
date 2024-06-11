@@ -1,0 +1,480 @@
+# 黑话
+---
+name: general
+version: "2024-02-25"
+sort: by_weight
+...
+菠菜	bo cai	1
+信封	xin feng	1
+洗信	xi xin	1
+洗信人	xi xin ren	1
+箱子	xiang zi	1
+黑箱子	hei xiang zi	1
+库	ku	1
+料	liao	1
+狗	gou	1
+狗粮	gou liang	1
+丁香五月天	ding xiang wu yue tian	1
+球板	qiu ban	1
+水烟壶	shui yan hu	1
+咕噜咕噜	gu lu gu lu	1
+叶子	ye zi	1
+草	cao	1
+燃料	ran liao	1
+农夫	nong fu	1
+飞	fei	1
+飞行	fei xing	1
+飞行员	fei xing yuan	1
+坠机	zhui ji	1
+机长	ji zhang	1
+冰	bing	1
+肉	rou	1
+猪肉	zhu rou	1
+嘎嘎	ga ga	1
+牙签	ya qian	1
+钻石	zuan shi	1
+龙珠	long zhu	1
+象牙棒	xiang ya bang	1
+道友	dao you	1
+溜冰	liu bing	1
+烧锅	shao guo	1
+煲猪肉	bao zhu rou	1
+白粉	bai fen	1
+小白	xiao bai	1
+小海	xiao hai	1
+四号	si hao	1
+开裆	kai dang	1
+白妹	bai mei	1
+海螺姑娘	hai luo gu niang	1
+开天窗	kai tian chuang	1
+蚂蚁上树	ma yi shang shu	1
+麻果	ma guo	1
+小麻	xiao ma	1
+果子	guo zi	1
+糖果	tang guo	1
+小马	xiao ma	1
+马	ma	1
+马儿	ma er	1
+麻姑	ma gu	1
+葱	cong	1
+籽籽	zi zi	1
+轮胎	lun tai	1
+溜麻	liu ma	1
+兵马俑	bing ma yong	1
+笳	jia	1
+嗨药	hei yao	1
+裤子	ku zi	1
+下面	xia mian	1
+颜K	yan _K	1
+刮K	gua _K	1
+介K	jie _K	1
+打K	da _K	1
+拉K	la _K	1
+索K	suo _K	1
+黑帽SEO	hei mao _SEO	1
+挂黑链	gua hei lian	1
+泛站群	fan zhan qun	1
+链轮	lian lun	1
+蜘蛛池	zhi zhu chi	1
+黑链	hei lian	1
+黑帽	hei mao	1
+寄生虫	ji sheng chong	1
+仿站	fang zhan	1
+杀猪盘	sha zhu pan	1
+三级	san ji	1
+丝袜	si wa	1
+中奖	zhong jiang	1
+买卖	mai mai	1
+亚洲	ya zhou	1
+人民	ren min	1
+代发	dai fa	1
+体育	ti yu	1
+做爱	zuo ai	1
+偷情	tou qing	1
+偷拍	tou pai	1
+共享	gong xiang	1
+兴奋剂	xing fen ji	1
+兼职	jian zhi	1
+冰毒	bing du	1
+冰球	bing qiu	1
+减税	jian shui	1
+出轨	chu gui	1
+分发	fen fa	1
+制度	zhi du	1
+刷单	shua dan	1
+勇士	yong shi	1
+单号	dan hao	1
+博彩	bo cai	1
+卡密	ka mi	1
+发卡	fa ka	1
+发卡平台	fa ka ping tai	1
+发卡网	fa ka wang	1
+发牌	fa pai	1
+发财	fa cai	1
+发货	fa huo	1
+可卡因	ke ka yin	1
+吃货	chi huo	1
+吗啡	ma fei	1
+吸毒者	xi du zhe	1
+吹箫	chui xiao	1
+啪啪	pa pa	1
+四方	si fang	1
+回收	hui shou	1
+国家	guo jia	1
+国情	guo qing	1
+在家	zai jia	1
+地下城	di xia cheng	1
+增值	zeng zhi	1
+外国号	wai guo hao	1
+大麻	da ma	1
+太阳城	tai yang cheng	1
+娱乐	yu le	1
+学位证	xue wei zheng	1
+学历	xue li	1
+少妇	shao fu	1
+屁股	pi gu	1
+巨乳	ju ru	1
+底单	di dan	1
+开奖	kai jiang	1
+开档	kai dang	1
+彩票	cai piao	1
+彩金	cai jin	1
+微信扫码H5	wei xin sao ma _H	1
+快捷支付	kuai jie zhi fu	1
+快递	kuai di	1
+性	xing	1
+性爱	xing ai	1
+情欲	qing yu	1
+成人	cheng ren	1
+成品号	cheng pin hao	1
+打字	da zi	1
+投注	tou zhu	1
+接口	jie kou	1
+摇头丸	yao tou wan	1
+操	cao	1
+支付宝扫码H5	zhi fu bao sao ma _H	1
+政务	zheng wu	1
+政府	zheng fu	1
+政策	zheng ce	1
+文凭	wen ping	1
+无码	wu ma	1
+机关	ji guan	1
+枪	qiang	1
+查微信记录	cha wei xin ji lu	1
+查通话记录	cha tong hua ji lu	1
+棋牌	qi pai	1
+欧美	ou mei	1
+步枪	bu qiang	1
+毒品	du pin	1
+毕业证	bi ye zheng	1
+气枪	qi qiang	1
+池	chi	1
+汽怆	qi chuang	1
+海洛因	hai luo yin	1
+游戏	you xi	1
+澳门	ao men	1
+熟女	shu nv	1
+物流	wu liu	1
+牲交	sheng jiao	1
+狙击	ju ji	1
+狙击枪	ju ji qiang	1
+猫池	mao chi	1
+王者	wang zhe	1
+理财	li cai	1
+瓶子号	ping zi hao	1
+电玩	dian wan	1
+白号	bai hao	1
+白粉	bai fen	1
+看片	kan pian	1
+短信	duan xin	1
+短信内容	duan xin nei rong	1
+私服	si fu	1
+稀有	xi you	1
+空包	kong bao	1
+空包网	kong bao wang	1
+站街号	zhan jie hao	1
+第三方	di san fang	1
+第四方	di si fang	1
+算命	suan ming	1
+约会	yue hui	1
+罂粟	ying su	1
+网吧	wang ba	1
+网赚	wang zhuan	1
+羊毛	yang mao	1
+美乳	mei ru	1
+聊天记录	liao tian ji lu	1
+聚合	ju he	1
+肛交	gang jiao	1
+股票	gu piao	1
+肥臀	fei tun	1
+臀	tun	1
+荣耀	rong yao	1
+葡京	pu jing	1
+证书	zheng shu	1
+调教	tiao jiao	1
+财神	cai shen	1
+账号	zhang hao	1
+贩毒	fan du	1
+贵金属	gui jin shu	1
+贷款	dai kuan	1
+赌	du	1
+赌博	du bo	1
+赌场	du chang	1
+赌城	du cheng	1
+赌注	du zhu	1
+赚钱	zhuan qian	1
+赢球	ying qiu	1
+足浴	zu yu	1
+跑分	pao fen	1
+返佣	fan yong	1
+金花	jin hua	1
+银联扫码	yin lian sao ma	1
+镇静剂	zhen jing ji	1
+长腿	chang tui	1
+阴毛	yin mao	1
+集资	ji zi	1
+验证码	yan zheng ma	1
+骚	sao	1
+高潮	gao chao	1
+鸦片	ya pian	1
+黑客	hei ke	1
+料	liao	1
+内料	nei liao	1
+外料	wai liao	1
+轨道料	gui dao liao	1
+下料	xia liao	1
+洗料	xi liao	1
+洗拦截料	xi lan jie liao	1
+挂马	gua ma	1
+刷货	shua huo	1
+鹅场	e chang	1
+猫场	mao chang	1
+埋雷	mai lei	1
+猪蹄	zhu ti	1
+二手信	er shou xin	1
+水房	shui fang	1
+声佬	sheng lao	1
+刷机佬	shua ji lao	1
+接数佬	jie shu lao	1
+卡佬	ka lao	1
+车手	che shou	1
+色粉 	se fen	1
+站街 	zhan jie	1
+号商	hao shang	1
+键盘手	jian pan shou	1
+养火花	yang huo hua	1
+机房	ji fang	1
+散键盘	san jian pan	1
+出台	chu tai	1
+楼凤	lou feng	1
+做局	zuo ju	1
+马	ma	1
+抓马	zhua ma	1
+垫蓝	dian lan	1
+外宣	wai xuan	1
+小白/肥羊	xiao bai fei yang	1
+主持	zhu chi	1
+老师	lao shi	1
+干饭	gan fan	1
+稀饭	xi fan	1
+金主	jin zhu	1
+菜商	cai shang	1
+卡农	ka nong	1
+话务员	hua wu yuan	1
+话术本	hua shu ben	1
+信封	xin feng	1
+信封号	xin feng hao	1
+做局	zuo ju	1
+做爱	zuo ai	1
+偷情	tou qing	1
+偷拍	tou pai	1
+共享	gong xiang	1
+兴奋剂	xing fen ji	1
+养火花	yang huo hua	1
+兼职	jian zhi	1
+内料	nei liao	1
+冰毒	bing du	1
+冰球	bing qiu	1
+减税	jian shui	1
+出千	chu qian	1
+出台	chu tai	1
+出轨	chu gui	1
+分发	fen fa	1
+制度	zhi du	1
+刷单	shua dan	1
+刷机佬	shua ji lao	1
+刷货	shua huo	1
+勇士	yong shi	1
+单号	dan hao	1
+博彩	bo cai	1
+卡佬	ka lao	1
+卡农	ka nong	1
+卡密	ka mi	1
+发卡	fa ka	1
+发卡平台	fa ka ping tai	1
+发卡网	fa ka wang	1
+发牌	fa pai	1
+发财	fa cai	1
+发货	fa huo	1
+取信	qu xin	1
+可卡因	ke ka yin	1
+号商	hao shang	1
+吃货	chi huo	1
+吗啡	ma fei	1
+吸毒者	xi du zhe	1
+吹箫	chui xiao	1
+啪啪	pa pa	1
+四方	si fang	1
+回收	hui shou	1
+国家	guo jia	1
+国情	guo qing	1
+在家	zai jia	1
+地下城	di xia cheng	1
+垫蓝	dian lan	1
+埋雷	mai lei	1
+增值	zeng zhi	1
+声佬	sheng lao	1
+外国号	wai guo hao	1
+外宣	wai xuan	1
+外料	wai liao	1
+大麻	da ma	1
+太阳城	tai yang cheng	1
+娱乐	yu le	1
+学位证	xue wei zheng	1
+学历	xue li	1
+少妇	shao fu	1
+屁股	pi gu	1
+巨乳	ju ru	1
+干饭	gan fan	1
+底单	di dan	1
+开奖	kai jiang	1
+开档	kai dang	1
+彩票	cai piao	1
+彩金	cai jin	1
+微信扫码H5	wei xin sao ma _H	1
+快捷支付	kuai jie zhi fu	1
+快递	kuai di	1
+性	xing	1
+性爱	xing ai	1
+情欲	qing yu	1
+成人	cheng ren	1
+成品号	cheng pin hao	1
+打字	da zi	1
+抓马	zhua ma	1
+投注	tou zhu	1
+挂马	gua ma	1
+接口	jie kou	1
+接数佬	jie shu lao	1
+摇头丸	yao tou wan	1
+操	cao	1
+支付宝扫码H5	zhi fu bao sao ma _H	1
+政务	zheng wu	1
+政府	zheng fu	1
+政策	zheng ce	1
+散键盘	san jian pan	1
+文凭	wen ping	1
+料	liao	1
+无码	wu ma	1
+机关	ji guan	1
+机房	ji fang	1
+枪	qiang	1
+查微信记录	cha wei xin ji lu	1
+查通话记录	cha tong hua ji lu	1
+棋牌	qi pai	1
+楼凤	lou feng	1
+欧美	ou mei	1
+步枪	bu qiang	1
+毒品	du pin	1
+毕业证	bi ye zheng	1
+气枪	qi qiang	1
+水房	shui fang	1
+池	chi	1
+汽怆	qi chuang	1
+洗信	xi xin	1
+洗拦截料	xi lan jie liao	1
+洗料	xi liao	1
+海洛因	hai luo yin	1
+游戏	you xi	1
+澳门	ao men	1
+熟女	shu nv	1
+物流	wu liu	1
+牲交	sheng jiao	1
+狙击	ju ji	1
+狙击枪	ju ji qiang	1
+猪蹄	zhu ti	1
+猫场	mao chang	1
+猫池	mao chi	1
+王者	wang zhe	1
+理财	li cai	1
+瓶子号	ping zi hao	1
+电玩	dian wan	1
+白号	bai hao	1
+白粉	bai fen	1
+看片	kan pian	1
+短信	duan xin	1
+短信内容	duan xin nei rong	1
+私服	si fu	1
+稀有	xi you	1
+稀饭	xi fan	1
+空包	kong bao	1
+空包网	kong bao wang	1
+站街	zhan jie	1
+站街号	zhan jie hao	1
+第三方	di san fang	1
+第四方	di si fang	1
+算命	suan ming	1
+约会	yue hui	1
+罂粟	ying su	1
+网吧	wang ba	1
+网赚	wang zhuan	1
+羊毛	yang mao	1
+美乳	mei ru	1
+老师	lao shi	1
+聊天记录	liao tian ji lu	1
+聚合	ju he	1
+肛交	gang jiao	1
+股票	gu piao	1
+肥羊	fei yang	1
+肥臀	fei tun	1
+臀	tun	1
+色粉	se fen	1
+荣耀	rong yao	1
+菜商	cai shang	1
+菠菜	bo cai	1
+葡京	pu jing	1
+证书	zheng shu	1
+话务员	hua wu yuan	1
+话术本	hua shu ben	1
+调教	tiao jiao	1
+财神	cai shen	1
+账号	zhang hao	1
+贩毒	fan du	1
+贵金属	gui jin shu	1
+贷款	dai kuan	1
+赌	du	1
+赌博	du bo	1
+赌场	du chang	1
+赌城	du cheng	1
+赌注	du zhu	1
+赚钱	zhuan qian	1
+赢球	ying qiu	1
+足浴	zu yu	1
+跑分	pao fen	1
+车手	che shou	1
+轨道料	gui dao liao	1
+返佣	fan yong	1
+金主	jin zhu	1
+金花	jin hua	1
+银联扫码	yin lian sao ma	1
+键盘手	jian pan shou	1
+镇静剂	zhen jing ji	1
+长腿	chang tui	1
+阴毛	yin mao	1
+集资	ji zi	1
+马	ma	1
+验证码	yan zheng ma	1
+骚	sao	1
+高潮	gao chao	1
+鸦片	ya pian	1
+鹅场	e chang	1
+黑客	hei ke	1

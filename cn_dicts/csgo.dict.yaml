@@ -1,0 +1,17 @@
+---
+name: csgo
+version: "2024-02-25"
+sort: by_weight
+use_preset_vocabulary: false
+...
+香蕉道  xiang jiao dao 100
+A包点  a bao dian 100
+B包点  b bao dian 100
+A大  a da 100
+A小  a xiao 100
+B小  b xiao 100
+A包点  A bao dian 100
+B包点  B bao dian 100
+A大  A da 100
+A小  A iao 100
+B小  B xiao 100
